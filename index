@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <body style="background-color:powderblue;">
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Even testen...</h1>
+<p>Het werkt ook nog!</p>
+  <p></p>
+  <p>Nu eens kijken hoe nu verder</p>
+  
+<form action="https://google.com">
+    <input type="submit" value="Klik hier!" />
+</form>
+  
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+<body>
+
+<button class="button button1">Pimpelpaars</button>
+<button class="button button2">Geel</button>
+
+</body>
+</html>
