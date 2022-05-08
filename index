@@ -11,7 +11,7 @@
   <p></p>
   <p>Nu eens kijken hoe nu verder</p>
   
-<form action="https://google.com">
+<form action="https://www.ajax.nl/">
     <input type="submit" value="Klik hier!" />
 </form>
   
