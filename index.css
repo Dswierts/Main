@@ -1,3 +1,12 @@
 h1 {
-  text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
 }
+  
+  p {
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 20px;
+  }
