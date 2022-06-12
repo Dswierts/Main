@@ -17,5 +17,32 @@ img {
     position:relative;
     top: 30%;
 }
+.button {
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 20px 5px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    
+  }
+  
+  .button1 {background-color: black;
+    position: relative;
+    top: -100%;
+    left: 0%;}
+  .button2 {background-color: black;
+    position:relative;
+    top: -100%;
+    left: 28%;}
+   
+  .button3 {background-color: black;
+    position:relative;
+    top: -100%;
+    left: 55%;}
 
-
+  
