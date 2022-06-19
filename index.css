@@ -1,5 +1,5 @@
 body {
-  background-color: darkgray;
+  background-color: black;
   cursor: default;
 }
 
@@ -55,11 +55,14 @@ ul li:hover ul li {
 
 
 img {
-    width: 100%;
-    position:relative
-    top: 30%;
-    cursor:default;
+    width: 20%;
+    position:relative;
+    margin-top: 32%;
+    float: right;
+    cursor: default;
+    
 }
+
 /*.button {
     border: none;
     color: white;
